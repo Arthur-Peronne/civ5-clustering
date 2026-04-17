@@ -1,0 +1,85 @@
+Which AI's do you see tend to dominate your games and turn into snowballing menaces? I don't mean people who spawn beside you and threaten to annihilate you, but have little chance of actually winning the game as a whole (ie. Shaka, who tends to fall behind technologically after the medieval no matter how many people he kills... He also earns the ire of the world and subsequently gets gangbanged, leaving him with little actual opportunity to win games as an AI). I mean people who are a threat, start to finish, to your victory, not necessarily militarily but on an overall scale. For me, I've found that Alex, Darius, and Catherine are consistently the strongest and most snowbally AI civ leaders. Alex because he will have a dangerous army from start to finish, but he won't fall behind on science or policies either because of his UA and the AI's tendency to spam buy city states to support its city growth for science and culture. Not to mention he will always have a giant military, and he will always have oil for airplanes. A huge threat to diplomacy and domination victory, not to mention not a neighbour you want to spawn beside. Darius, despite not being a heavy warmonger and oft times going tradition, is ridiculously good at it. He will skyrocket ahead of the competition in production (AI gets more happiness AND golden ages), science, policies, and wonders, and become an extremely dangerous opponent whether or not you decide to go to war with him. He will pose a threat to both cultural and science victories (I've seen him go rationalism way too often) if not taken care of quickly. Catherine has massive production boosts, and the AI tends to use that production for more settlers, army, and wonders. Name it and you've got it. Not only that, but despite her city spamming tendencies she somehow keeps very strong on the science side, on top of oft times maintaining a considerable military presence. The UA does tend to fall off a bit during the late game, however, but a strong early game usually translates to a snowballing unbeatable position, which unless the Catherine AI decided to go piety, she will usually get. She is a threat to science and culture victory, and occasionally also a threat to domination. Runner up mentions for Atilla, Shaka, Dido, and the Khan. The problem with them is that they tend to fall off in the mid-late game and become irrelevant because they spent the entire early game focusing on military rather than infrastructure or science, and they themselves and very little chance of actually winning the game as a whole. Atilla, in particular, is infamous for this: It will destroy neighbouring AIs in the early game but burn their cities, making their conquests essentially fruitless in the long run. Eventually other people start settling where those cities were while Atilla keeps making armies, and Atilla quickly becomes irrelevant. A similar case for all of the above mentioned, except they tend to have just a bit more sustainability than Atilla. Never a neighbour you want around, and a danger to your civlization's survival for sure, but they're not necessarily good at ensuring their own survival or victory by any means.
+
+---
+
+AI can't possibly win Domination, even on deity, as you've noticed. Eventually if they conquer enough, they lag behind in science or get destroyed by the world. So this leaves us with other possible victory conditions. Any AI that choose rationalism especially on deity can possibly run away, if not given attention. Usually Cathy, Sejong are good candidate for that. They can either go culture or science and win. If culture civs such as Maria, Napoleon, Ramses, Pedro, Kamehameha gets going with rationalism, they can also get pretty far ahead if they beeline internet. And of course Alex, can win diplo if he really tries for it, which is rare, but happens.
+
+---
+
+alex, attila and for some reason america?  the first two i can understand, since attila can run away with the game if he conquers enough capitals, and alex is always allied with every city state and their mother america just magically comes out ahead nearly every game i see them for some reason
+
+---
+
+Egypt, their natural wonder mongering coupled with Tradition makes them a nice tall civ really frequently. Greece, Japan, Zulus as well
+
+---
+
+Shoshone is the most competent AI in my experience. Expansionism + rationalism = fast, powerful wins. Korea CAN be really good, but since the Piety patch, he's a shadow of his former self. He used to go Tradition, Patronage, Rationalism and win very effectively.
+
+---
+
+If you want to learn to play Civ 5 better, search for 'Rezoacken' on YouTube
+
+---
+
+yeah, Poca is one of the few AIs who does go Rationalism often
+
+---
+
+miaasma said: alex, attila and for some reason america?  the first two i can understand, since attila can run away with the game if he conquers enough capitals, and alex is always allied with every city state and their mother america just magically comes out ahead nearly every game i see them for some reason Click to expand... I often notice this. Extreme wonder whoring and always ahead in the tech race.
+
+---
+
+Alexander is the strongest AI. And to prevent him from getting out of control I've reduced the amount of city-states. Ten by default is enough.
+
+---
+
+In my games, Alex, Cathy and Bismarck are perennial runaways. (Cathy is the AI I simultaneously dread and respect the most) Casimir, Pocatello and Suleiman are less frequently runaways, but they seem to always be at least relevant.
+
+---
+
+Germany, always settling everything, a 1 tile spot between your borders, you bet he's settling that, then he builds loads of units to protect all of his small cities, even the small ones starving on some island at one of the poles.
+
+---
+
+Popedesu said: Germany, always settling everything, a 1 tile spot between your borders, you bet he's settling that, then he builds loads of units to protect all of his small cities, even the small ones starving on some island at one of the poles. Click to expand... AI will never settle 1 tile spot between your borders, in fact they will never settle any cities on any tiles just outside borders.
+
+---
+
+I used to see plenty of runaways on civ3. Haven't seen them on civ4. I was always the runaway. Seen it happen once on civ5 and that was hiawatha during gods n kings. It was the only time I was truly scared. Except for one time where Caesar on Prince during vanilla civ5 somehow became a runaway and soared ahead on tech despite suffering tons of unhappiness from conquering so many cities in incredible short span of time. We're talking about WW2 Tanks infantry being thrown upon my german landsknechts and knights. I turtled so hard and managed to tech my way up to modern armor before going on the push. Caesar was coming at me like starving maniac with -33% combat effectiveness on all his units and wiping out civs left and right, and in my neighbor alone I was bordered by six civs and he killed them all. I managed to hold him off due to his unhappiness morale debuff + use of good geography's mountains and rivers with citadels shoring up the places where i'm strong/weak at. I even had atomic bombs thrown at me. On my citadels and forts and frontline cities. Endured it all and wiped him out in return. Oh word of caution: Score of the AI is completely bogus and doesn't accurately reflect their true strength. It overvalues their wonders and values their army very little. I've invaded alot of "runaways" who was ahead on score only to find out that they had little to none national army. I went on pillaging spree and became rich at their own expense.
+
+---
+
+If you wanna know the map script I'm using..    (Its for Civ5.) It's Tectonics Map Script V.3 by a guy named Haftetavenscrap.. You can find him on steamworkshop on the steam.
+
+---
+
+Funny because my experiences have differed. Russia never threatens a victory condition in my games.  She usually has an early rise through the power rankings (but as we all know, high score doesn't equal a win, unless time runs out.)  Then she always seems to plateau. Babylon and Korea are the worst for me.  Whenever I see them in the game, I shift focus to "which VC can I achieve before Neb/Sejong can build a spaceship " As far as warmongerers, I've found Mongolia to be the only one who can consistently convert his conquests into a chance at a victory condition.  Alex also, but I don't consider him to be a true warmongerer.  He plays into the diplomacy game heavily, likes to denounce and harass, and will declare war when he has a substantial advantage, but it's seldom that I see a puppetted or annexed Greek city, especially compared to the true warmongerers - puppets or annexes under the banner of Mongolia, Zulu, Huns, or Assyria are much more common in my games. Others that I've found to really compete are Rome, Poland, Ethiopia, Siam, Arabia, and the Iroquois (though Hiawatha hasn't been doing as well as he used to, before some patches.) I don't know how Venice would fare in the games where he does a little better because I always take his capital when it becomes juicy enough.
+
+---
+
+Netherlands (uh wait a minute...) England (whoops, no...) Venic... (don't get me started.) Oh I know: ...NUCLEAR GHANDI!!!
+
+---
+
+oh i forgot to mention arabia.  it's rare i see them in a game not completely dominating the science game renaissance and beyond, even if they're less relevant early.  poland, iroquois and the zulu are also heavy hitters
+
+---
+
+miaasma said: poland, iroquois and the zulu are also heavy hitters Click to expand... Zulu are certainly the worst neighbor in the game, but have you seem them actually contest for a victory condition?  Threatening to wipe me out, sure, almost every game.  But as far as achieving either diplomatic, cultural, domination, or spaceship victory, I've never seen him come close.
+
+---
+
+ShakaKhan said: Zulu are certainly the worst neighbor in the game, but have you seem them actually contest for a victory condition?  Threatening to wipe me out, sure, almost every game.  But as far as achieving either diplomatic, cultural, domination, or spaceship victory, I've never seen him come close. Click to expand... No, not the Zulus. However, Theodora is coming to kick your face in... ...hail the Byzantine space victory! I mean, is there a more consistent runaway than Byzantium?  Particularly when she doesn't found a religion?
+
+---
+
+Sclb said: AI will never settle 1 tile spot between your borders, in fact they will never settle any cities on any tiles just outside borders. Click to expand... I may be exaggerating a lot a little bit.
+
+---
+
+^^I had a game last night where Sweden forward settled a city two tiles away from my borders. He was trying to get the two salt that I was waiting for my second city to expand to (I had settled it a few turns earlier). Out of nowhere he appeared and settled. So I quickly bought all the tiles I could (especially the two salt). He then had the nerve to tell me not to do that.
+
+---
+
+docbud said: ^^I had a game last night where Sweden forward settled a city two tiles away from my borders. He was trying to get the two salt that I was waiting for my second city to expand to (I had settled it a few turns earlier). Out of nowhere he appeared and settled. So I quickly bought all the tiles I could (especially the two salt). He then had the nerve to tell me not to do that. Click to expand... Hate to play "coulda, woulda, shoulda," but had you bought the salt tiles (and maybe one behind it) the turn before they settled, they would have changed their city site, maybe even moved to a different area of the map.  This is why I keep at least one unit activated in each group around my borders (i.e. the whole group is set to sleep or fortify except one unit) so that each turn the game will force me to choose an action for that unit and while I respond (skip turn), I'm prompted to observe the area, and make note anytime I see an incoming settler, prophet, or carpet.
